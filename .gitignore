@@ -130,4 +130,5 @@ dmypy.json
 
 bin_array_test.bin
 bin_matrix_test.bin
-
+bin_matrix_test.txt
+bin_array_test.txt
