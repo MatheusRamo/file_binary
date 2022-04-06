@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+bin_array_test.bin
+bin_matrix_test.bin
+
