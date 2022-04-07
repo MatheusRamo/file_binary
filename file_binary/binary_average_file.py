@@ -1,6 +1,6 @@
 import numpy as np
 
-def average_file(file: str):
+def average_file(file: str) -> float:
     """
     This function opens a file and returns its average
     """

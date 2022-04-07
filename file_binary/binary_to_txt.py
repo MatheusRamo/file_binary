@@ -3,7 +3,7 @@ import numpy as np
 
 
 
-def bin_to_txt(file: str, cols: int):
+def bin_to_txt(file: str, cols: int) -> None:
     """
     This function create a file txt from a binary file with n columns
     """
