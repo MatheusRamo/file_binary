@@ -5,6 +5,7 @@
 [![PyPI Latest Release](https://img.shields.io/pypi/v/pandas.svg)](https://pypi.org/project/file-binary)
 
 ---
+
 ### What is it ?
 
 **File Binary** is a package with some tools to help you with binary files
