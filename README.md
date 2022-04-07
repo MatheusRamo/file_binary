@@ -4,3 +4,6 @@
 ```python
 pip install file-binary
 ```
+### How to use
+
+```from binary_file import fb```
