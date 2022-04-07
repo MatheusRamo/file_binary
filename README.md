@@ -1,8 +1,6 @@
 <div align="center">
-  <h1>File Binary</h1><br>
+  <h1>File Binary</h1>
 </div>
-
-# File Binary
 
 [![PyPI Latest Release](https://img.shields.io/pypi/v/pandas.svg)](https://pypi.org/project/file-binary)
 
