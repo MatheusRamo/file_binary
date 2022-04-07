@@ -8,7 +8,6 @@ def bin_to_txt(file: str, cols: int) -> None:
     This function create a file txt from a binary file with n columns
     """
     base = Path(file).parent
-    print(f"diretoio: {base}")
     file_name = Path(file).stem
 
     with open(f"./{base}/{file_name}.txt", "w") as txt:
