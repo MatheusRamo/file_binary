@@ -2,7 +2,10 @@
   <h1>File Binary</h1><br>
 </div>
 
+# File Binary
+
 [![PyPI Latest Release](https://img.shields.io/pypi/v/pandas.svg)](https://pypi.org/project/file-binary)
+
 ---
 ### What is it ?
 
