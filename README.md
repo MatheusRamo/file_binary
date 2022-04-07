@@ -12,10 +12,14 @@
 ### How to install
 
 ```py
+
 pip install file-binary
+
 ```
 ### How to use
 
 ```py
+
 from binary_file import fb
+
 ```
