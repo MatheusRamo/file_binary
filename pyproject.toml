@@ -1,8 +1,12 @@
 [tool.poetry]
 name = "file_binary"
-version = "0.3.0"
-description = ""
+version = "0.8.0"
+description = "File Binary is a package with some tools to help you with binary files"
 authors = ["matheus <geof.matheus@gmail.com>"]
+
+repository = 'https://github.com/MatheusRamo/file_binary'
+readme = 'README.md'
+keywords = ['text']
 
 [tool.poetry.dependencies]
 python = "^3.9"
